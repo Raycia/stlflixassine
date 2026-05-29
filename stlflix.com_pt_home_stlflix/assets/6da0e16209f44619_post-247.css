@@ -1,0 +1,46 @@
+.elementor-kit-247{--e-global-color-primary:#17171C;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#5166E6;--e-global-color-27609cd:#17171C;--e-global-color-ef9fbf8:#E6FC7C;--e-global-color-2e4302d:#ECF5FE;--e-global-color-7b61b7d:#5166E6;--e-global-color-888bdb7:#00FCFF;--e-global-color-adbd84c:#F6FAFE;--e-global-color-054b9f0:#A2A2A2;--e-global-color-65e8841:#07172E;--e-global-typography-primary-font-family:"Lunchtype24";--e-global-typography-primary-font-weight:500;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Lunchtype24";--e-global-typography-accent-font-size:16px;--e-global-typography-accent-font-weight:500;--e-global-typography-90e17e1-font-family:"Roboto";--e-global-typography-90e17e1-font-weight:600;--e-global-typography-433903f-font-family:"Montserrat";--e-global-typography-433903f-font-size:52px;--e-global-typography-433903f-font-weight:900;--e-global-typography-433903f-text-transform:uppercase;--e-global-typography-433903f-line-height:52px;background-color:#FFFFFF;}.elementor-kit-247 e-page-transition{background-color:#FFBC7D;}.e-con{--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:12px;}.elementor-element{--widgets-spacing:12px 12px;--widgets-spacing-row:12px;--widgets-spacing-column:12px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:900px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:600px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.elementor-widget-text-editor * {
+  font-family: inherit !important;
+}
+
+_
+
+.elementor-icon-list-text,
+.elementor-icon-list-text * {
+  font-family: inherit !important;
+}
+
+.elementor-icon-list-text strong,
+.elementor-icon-list-text b {
+  font-weight: bold !important;
+}
+
+.gradiente-horizontal {
+    background: linear-gradient(90deg, #9B51E6 0%, #5166E6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Lunchtype24';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://store.stlflix.com/wp-content/uploads/2023/12/Lunchtype24-Light-Expanded.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Lunchtype24';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://store.stlflix.com/wp-content/uploads/2023/12/Lunchtype24-Regular-Expanded.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Lunchtype24';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://store.stlflix.com/wp-content/uploads/2023/12/Lunchtype24-Medium-Expanded.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
